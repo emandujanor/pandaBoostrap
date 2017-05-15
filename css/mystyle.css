@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+  margin: 0px 0px;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.nav-principal{
+  width:100%;
+  height: auto;
+  background-color: #0A9082;
+  color:white;
+  font-size: 1.5em;
+  margin-bottom: 5%;
+}
+.center{
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  text-align: center;
+}
+.botones_inferior{
+  width:100%;
+  height: auto;
+  background-color: #0A9082;
+  color:white;
+  font-size: 1.5em;
+  margin-bottom: 5%;
+}
